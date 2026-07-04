@@ -667,6 +667,7 @@ June 14, 2026
 - [**claude-code-mcpinstall**](https://github.com/undeadpickle/claude-code-mcpinstall) - (235 ⭐) - Easy guide to installing Claude Code MCPs globally on your machine.
 - [**claude-code-system-prompt**](https://github.com/matthew-lim-matthew-lim/claude-code-system-prompt) - (154 ⭐) - Claude Code's system prompt.
 - [**claudecode-best-practices**](https://github.com/rosmur/claudecode-best-practices) - (85 ⭐) - A collection of best practices and procedures for using Claude Code.
+- [**handoff-driven-development**](https://github.com/yetanothervan/handoff-driven-development) - A specification-system template: spec-driven development plus per-track session handoffs that carry state and context between sessions; includes a tracks index. Apply with one prompt.
 
 ---
 
